@@ -1,8 +1,5 @@
 # PineVox Analytics API
 
-```{=html}
-<p align="center">
-```
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.138-009688?logo=fastapi)
 ![Python](https://img.shields.io/badge/Python-3.12+-3776AB?logo=python)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?logo=mongodb)
